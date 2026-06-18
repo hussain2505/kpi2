@@ -4,4 +4,4 @@ cd kpi2
 
 pip install pandas numpy matplotlib seaborn plotly stremlit
 
-streamlit run satellite.py
+streamlit run app2.py
